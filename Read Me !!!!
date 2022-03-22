@@ -7,6 +7,8 @@ Purpose of the script:
 *** Export Csv Report On - 365 Csp Customer About Mfa Status. ***
 fields: 
 
+The Script Export Location Is Desktop
+
 Company - Company name.
 User - User mailbox.
 Full name of the user.
