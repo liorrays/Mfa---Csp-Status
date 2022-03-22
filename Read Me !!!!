@@ -1,0 +1,25 @@
+# Author Lior Rays 2022©.
+#Linkedin Profile - www.linkedin.com/in/lior-rays-58266b194
+
+
+Purpose of the script:
+
+*** Export Csv Report On - 365 Csp Customer About Mfa Status. ***
+fields: 
+
+Company - Company name.
+User - User mailbox.
+Full name of the user.
+MFAUsed - Is the MFA enabled?
+MFAmethod - What is the MFA method that the user has chosen?
+PhoneNumber - The mobile number of the user on which the MFA is defined.
+Disabled_User - Is the user in Disabled mode?.
+
+Important:
+----------
+1) Log In With Your CSP Account - Must Have Permissions On This Account
+2) Run The Script As Administrator 
+3) The script uses the Msonline module (if not installed, it installs the module automatically)
+
+
+
